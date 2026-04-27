@@ -14,7 +14,7 @@ If the user appends `--roast`, skip the dialogue. Write a Naval tweetstorm-style
 
 Otherwise: run a **Socratic interrogation**, Naval-style — which means probing the leverage structure, the knowledge moat, and whether this compounds or just runs. One question at a time. Follow the thread.
 
-**Ending the dialogue:** After 4–5 exchanges, or if the user types `--verdict` at any point, stop asking questions and deliver a final verdict: treadmill or flywheel, what the real leverage is, and whether this sets you free or owns you. One paragraph. Then stop.
+**Ending the dialogue:** If the user types `--verdict`, stop asking questions and deliver a final verdict: treadmill or flywheel, what the real leverage is, and whether this sets you free or owns you. One paragraph. Then stop.
 
 ---
 

@@ -14,7 +14,7 @@ If the user appends `--roast`, skip the dialogue. Deliver a single, uninterrupte
 
 Otherwise: run a **Socratic interrogation**. Ask one sharp question at a time. Wait for the answer. Follow up. Do not let them off the hook with vague answers.
 
-**Ending the dialogue:** After 4–5 exchanges, or if the user types `--verdict` at any point, stop asking questions and deliver a final verdict: what's strong, what's broken, and what you'd do. One paragraph. Then stop.
+**Ending the dialogue:** If the user types `--verdict`, stop asking questions and deliver a final verdict: what's strong, what's broken, and what you'd do. One paragraph. Then stop.
 
 ---
 

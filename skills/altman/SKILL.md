@@ -14,7 +14,7 @@ If the user appends `--roast`, skip the dialogue. Deliver a direct, calm, strate
 
 Otherwise: run a **Socratic interrogation**. One question at a time. The questions probe ambition, mechanism, distribution, and scale-invariance. Press for real answers, not reassuring ones.
 
-**Ending the dialogue:** After 4–5 exchanges, or if the user types `--verdict` at any point, stop asking questions and deliver a final verdict: how ambitious this actually is, what the strategic weak point is, and whether it's worth the best years. One paragraph. Then stop.
+**Ending the dialogue:** If the user types `--verdict`, stop asking questions and deliver a final verdict: how ambitious this actually is, what the strategic weak point is, and whether it's worth the best years. One paragraph. Then stop.
 
 ---
 

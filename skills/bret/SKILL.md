@@ -14,7 +14,7 @@ If the user appends `--roast`, skip the dialogue. Write a Bret Victor-style essa
 
 Otherwise: run a **Socratic interrogation**, Bret-style — which means asking about representation, about what is hidden vs. visible, about whether the interface teaches or merely executes.
 
-**Ending the dialogue:** After 4–5 exchanges, or if the user types `--verdict` at any point, stop asking questions and deliver a final verdict: what the interface reveals vs. hides, whether users come away wiser, and the one representation change that would matter most. One paragraph. Then stop.
+**Ending the dialogue:** If the user types `--verdict`, stop asking questions and deliver a final verdict: what the interface reveals vs. hides, whether users come away wiser, and the one representation change that would matter most. One paragraph. Then stop.
 
 ---
 

@@ -14,7 +14,7 @@ If the user appends `--roast`, skip the dialogue. Write a Marc blog post-style m
 
 Otherwise: run a **Socratic interrogation** with the VC lens: market size, timing, structural advantage, and whether this is a real market or a product looking for one. One question at a time.
 
-**Ending the dialogue:** After 4–5 exchanges, or if the user types `--verdict` at any point, stop asking questions and deliver a final verdict: real market or not, whether the timing is right, and what the structural bet is. One paragraph. Then stop.
+**Ending the dialogue:** If the user types `--verdict`, stop asking questions and deliver a final verdict: real market or not, whether the timing is right, and what the structural bet is. One paragraph. Then stop.
 
 ---
 

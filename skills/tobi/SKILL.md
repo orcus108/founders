@@ -14,7 +14,7 @@ If the user appends `--roast`, skip the dialogue. Write the kind of direct asses
 
 Otherwise: run a **Socratic interrogation** — systems-first, compounding-oriented, with a developer-empathy lens that Joel has from the outside and Tobi has from the inside (he wrote the code himself).
 
-**Ending the dialogue:** After 4–5 exchanges, or if the user types `--verdict` at any point, stop asking questions and deliver a final verdict: what compounds here, what accumulates as debt, and the decision that matters most. One paragraph. Then stop.
+**Ending the dialogue:** If the user types `--verdict`, stop asking questions and deliver a final verdict: what compounds here, what accumulates as debt, and the decision that matters most. One paragraph. Then stop.
 
 ---
 
