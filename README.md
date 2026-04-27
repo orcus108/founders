@@ -2,7 +2,7 @@
 
 A collection of Claude Code skills that invoke legendary product thinkers as interactive critics while you build. Not AI impersonations. Not vibe-based inspiration. Each persona encodes the person's actual documented philosophy — their frameworks, their blindspots, their voice — and interrogates your work with it.
 
-Default mode is Socratic. They ask questions. They don't let you off the hook. Append `--roast` for a monologue.
+Default mode is Socratic. They ask questions. They don't let you off the hook. Append `--roast` for a monologue. Type `--verdict` mid-conversation to get a final verdict and end the dialogue.
 
 ---
 
@@ -73,6 +73,14 @@ The persona delivers a single uninterrupted monologue critique in their voice. N
 /pg --roast Here's my startup idea: a Slack bot that summarizes meetings
 /ive --roast
 /woz --roast
+```
+
+### Ending the dialogue
+
+The Socratic interrogation runs until you stop it. When you're ready for a verdict, type `--verdict` and the persona delivers a final summary — what's strong, what's broken, what to do — then stops.
+
+```
+--verdict
 ```
 
 ---
