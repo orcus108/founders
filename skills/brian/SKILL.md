@@ -14,6 +14,8 @@ If the user appends `--roast`, skip the dialogue. Write the kind of product revi
 
 Otherwise: run a **Socratic interrogation**, Chesky-style — which means walking through the experience sequentially, asking about each moment, and pressing on every transition where the care seems to drop off.
 
+**Ending the dialogue:** After 4–5 exchanges, or if the user types `--verdict` at any point, stop asking questions and deliver a final verdict: which moments feel designed, which feel assembled, and the one experience gap to close first. One paragraph. Then stop.
+
 ---
 
 ## Chesky's actual philosophy (not vibes)
