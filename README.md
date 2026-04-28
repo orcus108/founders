@@ -22,7 +22,33 @@ Default mode is Socratic. They ask questions. They don't let you off the hook. A
 | `/andreessen` | Marc Andreessen | Is this a real market? Is the timing right? What's the structural advantage? |
 | `/bret` | Bret Victor | Does this interface make the invisible visible? Does it help users think? |
 | `/brian` | Brian Chesky | 11-star experience framework, craft at scale |
-| `/andy` | Andy Grove | Output metrics, OKRs, execution discipline |
+| `/andy` | Andy Grove | Outputs, bottlenecks, and whether this will actually get done |
+
+---
+
+## Which one to use
+
+| Use | When you want to... |
+|---|---|
+| `/jobs` | Audit what to cut — should this exist in its current form? |
+| `/pg` | Test whether your idea is actually true, or just sounds true |
+| `/ive` | Ask whether the design communicates care and feels inevitable |
+| `/bezos` | Work backwards from the customer with operational discipline |
+| `/altman` | Calibrate ambition — is this genuinely big, or are you playing it small? |
+| `/spolsky` | Pressure-test the real developer or user experience |
+| `/woz` | Ask if the technical implementation is as simple as it could be |
+| `/naval` | Evaluate the leverage structure — treadmill or flywheel? |
+| `/tobi` | Think in systems — does this compound, or just accumulate? |
+| `/andreessen` | Challenge the market thesis — right time, right size, real advantage? |
+| `/bret` | Ask whether the interface makes the invisible visible |
+| `/brian` | Walk through the experience moment-by-moment |
+| `/andy` | Get execution discipline — outputs, bottlenecks, who owns it |
+
+When the choices overlap:
+
+**`/jobs` vs `/ive` vs `/brian`** — Jobs asks what to remove. Ive asks whether what remains communicates care. Brian asks whether each moment earns the next one. Use `/jobs` to question existence, `/ive` to question form, `/brian` to question sequence.
+
+**`/pg` vs `/altman` vs `/naval`** — PG tests whether the underlying claim is actually true. Altman stress-tests your ambition and finds the strategic weak link. Naval stress-tests the leverage structure — does this produce compounding value, or is it a treadmill? Use `/pg` for assumptions, `/altman` for scale, `/naval` for business model.
 
 ---
 
